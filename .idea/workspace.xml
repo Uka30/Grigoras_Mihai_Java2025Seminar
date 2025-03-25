@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="21ecc92c-8d58-472b-9166-0f1d273e0fe4" name="Changes" comment="" />
+    <list default="true" id="21ecc92c-8d58-472b-9166-0f1d273e0fe4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Seminar4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_01/Seminar_01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_01/src/ase/ro/java/classes/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_01/src/ase/ro/java/classes/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_02/Seminar_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_02/src/ase/ro/java/classes/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_02/src/ase/ro/java/classes/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_03/Seminar_03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_03/src/ro/ase/pmj/classes/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_03/src/ro/ase/pmj/classes/GameCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_03/src/ro/ase/pmj/classes/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_03/src/ro/ase/pmj/classes/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_03/src/ro/ase/pmj/classes/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_03/src/ro/ase/pmj/interfaces/Attackable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_04/Seminar_04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_04/src/ro/ase/pmj/classes/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_04/src/ro/ase/pmj/classes/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_04/src/ro/ase/pmj/classes/Student.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2uoiL9bySyRH0AJL6rO7iNJ4xrq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,11 +52,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/mihaigrigoras/Programare/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742921268897</updated>
       <workItem from="1742921270241" duration="19000" />
+      <workItem from="1742921593312" duration="440000" />
     </task>
     <servers />
   </component>
